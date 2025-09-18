@@ -1,1 +1,2 @@
 Meu nome é Ana
+Este projeto tem o intuito de aprendizado de uso do Git e Github
